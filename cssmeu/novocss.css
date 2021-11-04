@@ -1,0 +1,139 @@
+/*novo css*/
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url('../exercicio/aguaa.png') ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+header,
+footer{
+    
+  
+    background: url('../exercicio/aguaa.png');
+    background: rgba(111,150,126,0.75);
+    
+    width: 100%;
+    border-radius: 20px;
+
+}
+h2{
+    font-size: 40px;
+    color: whitesmoke;
+    position: absolute;
+    margin: 30px;
+    
+}
+form{
+    text-align: center;
+    
+}
+nav{
+    text-align: center;
+    padding-top: 40px;
+    color: whitesmoke;
+    font-size: 20px;
+   
+
+    
+    
+}
+.hdireita{
+    float: right;
+    position: relative;
+    margin: 15px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+input{
+    
+    border-radius: 6px;
+    width: 300px;
+    height: 50px;
+    margin: 20px
+}
+button{
+    border-radius: 6px;
+    height: 50px;
+}
+.borda{
+    border-radius: 5px;
+    
+}
+
+a:hover{
+    background-color: rgba(212, 236, 221, 0.55);
+    border-radius: 5px;
+    
+}
+section{
+    
+    background: rgba(179, 223, 196, 0.65);
+    text-align: center;
+    color: whitesmoke;
+    font-size: 120px;
+    font-weight: bold;
+    padding: 20px;
+    
+}
+.espaco{
+    margin-right: 80px;
+ }
+ 
+
+
+.meio{
+    text-align: center;
+}
+footer{
+  
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: whitesmoke;
+}
+
+.elemento1 img{
+    background-color: rgb(8, 2, 2);
+    width: 200px;
+    height: 400px;
+    border-radius: 30px;
+    filter: drop-shadow(15px 8px 10px #333);
+  
+}
+.elemento1 img:hover{
+    filter: grayscale(0%);
+}
+
+
+.jasei{
+    color: black;
+}
+
+
+#lipsum{
+    font-size: 18px;
+    font-weight: normal;
+    margin: 100px 200px 100px 200px;
+}
+
+.contato{
+    font-size: 56px;
+}
+
+
+
+    
+
+
+
+
